@@ -1,7 +1,8 @@
-streamlit
+gradio
 python-dotenv
 requests
 google-generativeai
+neo4j
 networkx
 spacy
 sentence-transformers
@@ -9,4 +10,5 @@ scikit-learn
 numpy
 pandas
 torch
+scipy
 tqdm
