@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Hybrid GraphRAG for Reddit Intelligence
 
 A Hybrid GraphRAG system that combines **Semantic Search**, **Knowledge Graph Retrieval**, **Hybrid Retrieval**, and **Temporal Search** to analyze Reddit discussions using **Neo4j**, **Sentence Transformers**, and **Gemini 2.5 Flash**.
@@ -323,7 +325,3 @@ The web interface provides:
 - Interactive User Interface
 
 ---
-
-# License
-
-This project was developed as part of the **GenAI Backend Engineer Assignment**.
