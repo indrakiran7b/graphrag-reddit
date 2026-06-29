@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Hybrid GraphRAG for Reddit Intelligence
 
