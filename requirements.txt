@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+requests
+google-generativeai
+networkx
+spacy
+sentence-transformers
+scikit-learn
+numpy
+pandas
+torch
+tqdm
